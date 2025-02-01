@@ -17,7 +17,7 @@ pip install matplotlib
 python molecular_motion.py
 
 ## Example Output
-![Random Walk Example](screenshot.png) *(You can add a screenshot of the plot)*
+![Random Walk Example](screenshot.png)
 
 ## License
 This project is open-source. Feel free to modify and experiment!
